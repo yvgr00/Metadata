@@ -19,11 +19,11 @@ Below are the button names
 
 You can run this in two ways:
 
-Web
+# Web:
 
 link to site
 
-Locally
+# Locally:
 
 You can download the project from GITHUB:provide link
 
