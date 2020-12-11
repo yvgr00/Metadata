@@ -19,13 +19,9 @@ Below are the button names
 
 You can run this in two ways:
 
-# Web:
+Web: https://nameless-spire-63573.herokuapp.com/
 
-link to site
-
-# Locally:
-
-You can download the project from GITHUB:provide link
+Locally: You can download the project from GITHUB: https://github.com/yvgr00/Metadata
 
 Install:
 
